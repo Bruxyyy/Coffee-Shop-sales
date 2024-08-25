@@ -1,2 +1,2 @@
 # Coffee-Shop-sales
-Excel Project
+Coffe Shop Sales analysis using MS Excel
